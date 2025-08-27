@@ -1,18 +1,18 @@
-Please give me a list of upcoming cybersecurity, digital identity, and IT security conferences and events in the Washington, D.C. and Northern Virginia region.
+Please provide a list of upcoming cybersecurity, digital identity, and IT security conferences and events in the Washington, D.C. and Northern Virginia region.
 
 Requirements:
-Only include future events (exclude any that have already occurred).
 
-Include these fields for each event:
-Event name
-Date(s)
-Location
-Focus area (e.g., smartcards, PIV, HSPD12, PIV-I, Certificate Authorities, PKI, derived credentials, IAL2, IAL3, FIDO, identity, Zero Trust, cloud, FedRAMP, government cybersecurity, etc.)
-Pricing (separating government/contractor/PIV rates vs industry/non-gov rates)
-Link to the Event
-CPE credits availability
-Brief summary of target audience (government, integrators, vendors, students, etc.)
+Only include future events that will occur after today's date (August 27, 2025).
+For each event, include the following fields with specific and accurate information:
+Event Name: The full, official name of the conference.
+Date(s): The specific start and end date(s). Do not use general terms like "Fall" or "Spring."
+Location: The full physical location, including the venue name and city/state.
+Focus Area: A detailed list of relevant topics (e.g., Zero Trust, PIV, FedRAMP, PKI, AI/ML in security, cloud security, CISO topics, etc.).
+Pricing: Provide specific pricing for different attendee categories (e.g., Government/Military, Industry, Academia, Student, etc.). Do not list "TBD" if pricing is available.
+Link to the Event: The direct URL to the conference's official page, ideally the registration or event details page, not a generic organization homepage.
+CPE Credits Availability: Indicate whether Continuing Professional Education (CPE) credits are available.
+Target Audience: A brief summary of the intended audience (e.g., government, integrators, vendors, students, etc.).
 
-Include events hosted by ATARC, ISC², ISACA, ISSA-NOVA, Billington, Identiverse, Identity Week, RSA, ISC West, GovForward, or other major government cybersecurity/identity events.
-Present the information in a table format for easy comparison.
-Only include events that will occur after today’s date.
+Include events hosted by key organizations and publications in the government and cybersecurity space, such as ATARC, ISC², ISACA, ISSA-NOVA, Billington, Identiverse, GovForward, MeriTalk, and others.
+
+Present all information in a clear, easy-to-compare table format.
