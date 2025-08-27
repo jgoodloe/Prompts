@@ -1,10 +1,18 @@
-Please give me a list of upcoming security, cybersecurity, and digital identity conferences and events in the Washington, D.C. and Northern Virginia region.  
+Please give me a list of upcoming cybersecurity, digital identity, and IT security conferences and events in the Washington, D.C. and Northern Virginia region.
 
-For each event, include:
-Event name, date(s), and location
+Requirements:
+Only include future events (exclude any that have already occurred).
+
+Include these fields for each event:
+Event name
+Date(s)
+Location
 Focus area (e.g., smartcards, PIV, HSPD12, PIV-I, Certificate Authorities, PKI, derived credentials, IAL2, IAL3, FIDO, identity, Zero Trust, cloud, FedRAMP, government cybersecurity, etc.)
 Pricing (separating government/contractor/PIV rates vs industry/non-gov rates)
-Whether it offers CPE credits
-A quick summary of who should attend (gov, integrators, vendors, students, etc.)
-Please also check for events hosted by ATARC, ISC², ISACA, ISSA-NOVA, Billington, Identiverse, Identity Week, RSA, ISC West, and GovForward, plus any other major government cybersecurity or identity events.
-Only include future events (exclude ones that already occurred). Provide results in a table format for easy comparison.
+Link to the Event
+CPE credits availability
+Brief summary of target audience (government, integrators, vendors, students, etc.)
+
+Include events hosted by ATARC, ISC², ISACA, ISSA-NOVA, Billington, Identiverse, Identity Week, RSA, ISC West, GovForward, or other major government cybersecurity/identity events.
+Present the information in a table format for easy comparison.
+Only include events that will occur after today’s date.
